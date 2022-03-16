@@ -1,0 +1,9 @@
+{
+    "ip": "host.docker.internal",
+    "port": "5502",
+    "useASCII": false,
+    "endianness": 4,
+    "protocol": 2,
+    "interval": 2000,
+    "readTimeout": 1000
+}
